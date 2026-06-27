@@ -46,4 +46,4 @@ For now, following are the major goals of the project:
 3. To implement an arena allocator and experiment with different static memory planning algorithms.
 
 ## Conclusion
-This project is going to be a deep dive into the intersection of machine learning math and low-level systems memory management. I'll be updates on the project as I go!
+This project is going to be a deep dive into the intersection of machine learning math and low-level systems memory management. I'll be posting updates on the project as I go!
