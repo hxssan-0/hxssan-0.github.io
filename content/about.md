@@ -14,3 +14,11 @@ Welcome to my blog site! I'm a computer science student from Pakistan studying a
 * **Low Level Programming:** I am not too fond of high levels of abstraction, hence I enjoy writing low level code such as in C or Assembly.
 * **ML Infrastructure:** AI/ML is pretty emerging, and I really enjoy the aspect of creating the engines and infrastructure that powers AI.
 * **Research and Development:** I aim to contribute significantly to research and maybe get my own paper published.
+
+---
+
+* Connect with me on [LinkedIn][linkedin]
+* Add me on [GitHub][gh]
+
+[linkedin]: https://www.linkedin.com/in/hassan-rizwan-b0b639302
+[gh]: https://github.com/hxssan-0
