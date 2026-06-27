@@ -17,7 +17,7 @@ pagination.pagerSize = 5
     readMore = "Read more"
     
     [params.logo]
-        logoText = "hxssan-0"
+        logoText = "Hassan's Personal Blog"
 
 [menu]
     [[menu.main]]
