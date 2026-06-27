@@ -1,5 +1,5 @@
 +++
-title = "A Brief Explanation to ZeroGrad"
+title = "A Brief Introduction to ZeroGrad"
 date = "2026-06-27T19:31:35+05:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = "Hassan"
